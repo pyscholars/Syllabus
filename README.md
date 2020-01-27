@@ -4,8 +4,8 @@ A repository that outlines the prospect of the pyscholars initialization and imp
 
 
 ## Quick Links
-Published link can be found [here](https://pythonghana.github.io/pyscholars/ "
+Published link can be found [here](https://pyscholars.github.io/syllabus/ "
  Demo").
 
-Click [here](https://github.com/pythonghana/pyscholars/raw/master/book.pdf "
+Click [here](https://github.com/pyscholars/syllabus/raw/master/book.pdf "
  Demo") to Download pdf.
